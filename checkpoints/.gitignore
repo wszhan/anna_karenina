@@ -1,0 +1,10 @@
+*
+!.gitignore
+
+#ignore checkpoints files
+*.ckpt*
+
+#ignore checkpoint dir
+./checkpoint/
+
+
